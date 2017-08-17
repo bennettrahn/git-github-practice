@@ -4,3 +4,5 @@ class Cat
 end
 
 octocat = Cat.new("Octocat")
+
+puts "This is a test."
